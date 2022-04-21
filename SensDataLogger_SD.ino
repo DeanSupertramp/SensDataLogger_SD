@@ -15,7 +15,7 @@
 
   Created 18-02-2022
   By Andrea Alecce
-  Modified 18-02-2022year
+  Modified 18-02-2022
 
   https://github.com/DeanSupertramp/SensDataLogger_SD
 
