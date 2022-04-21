@@ -17,7 +17,7 @@
   By Andrea Alecce
   Modified 18-02-2022year
 
-  http://url/of/online/tutorial.cc
+  https://github.com/DeanSupertramp/SensDataLogger_SD
 
 */
 
